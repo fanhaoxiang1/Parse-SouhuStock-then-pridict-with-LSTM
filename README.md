@@ -1,9 +1,6 @@
-# Parse-SouhuStock-then-pridict-with-LSTM
-主要使用python上Scrapy和Keras进行爬取和预测
-
 python版本：python3.8
 
-# 必要插件及测试时版本：
+必要插件及测试时版本：
 numpy     1.18.5
 pandas     1.0.5
 urllib3      1.25.9
@@ -13,7 +10,7 @@ tensorflow-gpu    2.3.1（tensorflow也可以替代）
 Keras     2.4.3
 matplotlib    3.2.2
 
-# 运行顺序：
+运行顺序：
 
 为了方便理解，我录制了一个长约10分钟的介绍视频，包含了第二部分的大部分内容，以下是视频链接：https://www.bilibili.com/video/bv1cT4y1M78m （可以采用1.25倍速观看）
 
