@@ -15,9 +15,9 @@ python版本：python3.8
 
     1.运行pythonDesign下的urllib获取股票代号.py
     2.scrapy 爬虫
-        1）运行cmd，cd + 保存路径\pythonDesign\stock_history\stock_history
+        1）运行cmd，cd + 保存路径\stock_history\stock_history
         2）输入 scrapy crawl stock_history_spider
-        3）数据保存在  保存路径\pythonDesign\stock_history\stock_history\history_data
+        3）数据保存在  保存路径\stock_history\stock_history\history_data
 
     3.运行main下的stock_csv文件名更改.py
     4.运行main下的RNN神经网络-LSTM股票预测.py
